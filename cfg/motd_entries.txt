@@ -1,0 +1,17 @@
+"motd_entries"
+{
+	"last_request_time"		"2018-05-21 07:04:24"
+	"last_request_language"		"english"
+	"85"
+	{
+		"post_time"		"2018-03-29 19:50:00"
+		"title_english"		"Update Released!"
+		"text_english"		"We've just released an update that includes matchmaking improvements, a new community cosmetic case, lots of bug fixes, and more!
+			
+			Click below for more details!"
+		"url"		"http://www.teamfortress.com/post.php?id=38643"
+		"image"		"../vgui/main_menu/motd_02_28_18"
+		"header_type"		"0"
+		"header_english"		"News"
+	}
+}
