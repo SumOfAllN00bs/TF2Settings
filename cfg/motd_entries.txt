@@ -1,17 +1,18 @@
 "motd_entries"
 {
-	"last_request_time"		"2018-05-21 07:04:24"
+	"last_request_time"		"2018-11-30 23:43:15"
 	"last_request_language"		"english"
-	"85"
+	"86"
 	{
-		"post_time"		"2018-03-29 19:50:00"
-		"title_english"		"Update Released!"
-		"text_english"		"We've just released an update that includes matchmaking improvements, a new community cosmetic case, lots of bug fixes, and more!
+		"post_time"		"2018-10-20 19:50:00"
+		"title_english"		"Scream Fortress X"
+		"text_english"		"Complete a new round of Merasmissions! Make offerings to your Soul Gargoyle! Play five new community created Halloween maps! Check out the new taunts, community cosmetic items, and community war paints!
 			
-			Click below for more details!"
-		"url"		"http://www.teamfortress.com/post.php?id=38643"
-		"image"		"../vgui/main_menu/motd_02_28_18"
-		"header_type"		"0"
-		"header_english"		"News"
+Scream Fortress X runs through November 14, 2018."
+		"url"		"http://www.teamfortress.com/post.php?id=45049"
+		"image"		"illustrations/gamemode_halloween2015"
+		"header_type"		"2"
+		"header_english"		"Happy Halloween"
+		"header_icon"		"class_icons/filter_all_motd"
 	}
 }

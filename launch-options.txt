@@ -1,0 +1,2 @@
+-nocrashdialog -novid -nojoy -nosteamcontroller -softparticlesdefaultoff -reuse +fps_max 61 +map_background preload_room
+
