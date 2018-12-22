@@ -1,18 +1,17 @@
 "motd_entries"
 {
-	"last_request_time"		"2018-11-30 23:43:15"
+	"last_request_time"		"2018-12-21 17:34:39"
 	"last_request_language"		"english"
-	"86"
+	"89"
 	{
-		"post_time"		"2018-10-20 19:50:00"
-		"title_english"		"Scream Fortress X"
-		"text_english"		"Complete a new round of Merasmissions! Make offerings to your Soul Gargoyle! Play five new community created Halloween maps! Check out the new taunts, community cosmetic items, and community war paints!
-			
-Scream Fortress X runs through November 14, 2018."
-		"url"		"http://www.teamfortress.com/post.php?id=45049"
-		"image"		"illustrations/gamemode_halloween2015"
-		"header_type"		"2"
-		"header_english"		"Happy Halloween"
+		"post_time"		"2018-12-20 20:55:00"
+		"title_english"		"Merry Smissmas"
+		"text_english"		"Smissmas brings Stocking Stuffers for everyone and winter-themed community cosmetics!
+			Festivizers can be found as a random bonus when opening the Winter 2018 Cosmetic Case! Happy Holidays!"
+		"url"		"http://www.teamfortress.com"
+		"image"		"../backpack/crafting/winter2013_stocking_stuffer_large"
+		"header_type"		"0"
+		"header_english"		"News"
 		"header_icon"		"class_icons/filter_all_motd"
 	}
 }
