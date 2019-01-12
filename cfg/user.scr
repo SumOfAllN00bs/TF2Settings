@@ -32,7 +32,7 @@
 
 
 // Half-Life User Info Configuration Layout Script (stores last settings chosen, too)
-// File generated:  Fri Dec 21 17:43:01 AM
+// File generated:  Fri Jan 11 02:38:12 AM
 //
 //
 // Cvar	-	Setting
@@ -52,7 +52,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TF_autoreload"
 		"#Tooltip_autoreload"
 		{ BOOL }
-		{ "0" }
+		{ "1" }
 	}
 
 	"hud_fastswitch"
@@ -347,7 +347,7 @@ DESCRIPTION INFO_OPTIONS
 	{
 		"#TF_EnableGlowsAfterRespawn"
 		{ BOOL }
-		{ "0" }
+		{ "1" }
 	}
 
 	"cl_hud_playerclass_use_playermodel"
@@ -596,7 +596,7 @@ DESCRIPTION INFO_OPTIONS
 		"#Valve_Multiplayer_Decal_Limit"
 		"#Tooltip_Multiplayer_Decal_Limit"
 		{ NUMBER 0 4096 }
-		{ "9" }
+		{ "0" }
 	}
 
 	"category6"
@@ -618,7 +618,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TF_classautokill"
 		"#Tooltip_classautokill"
 		{ BOOL }
-		{ "0" }
+		{ "1" }
 	}
 
 	"tf_respawn_on_loadoutchanges"
@@ -642,7 +642,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TF_use_min_viewmodels_option"
 		"#Tooltip_use_min_viewmodels_option"
 		{ BOOL }
-		{ "0" }
+		{ "1" }
 	}
 
 	"cl_playerspraydisable"
@@ -715,7 +715,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TF_ShowPromotionalCodesButton"
 		"#Tooltip_ShowPromotionalCodesButton"
 		{ BOOL }
-		{ "1" }
+		{ "0" }
 	}
 
 	"category7"
