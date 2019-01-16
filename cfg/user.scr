@@ -32,7 +32,7 @@
 
 
 // Half-Life User Info Configuration Layout Script (stores last settings chosen, too)
-// File generated:  Fri Jan 11 02:38:12 AM
+// File generated:  Mon Jan 14 03:34:34 AM
 //
 //
 // Cvar	-	Setting
@@ -76,7 +76,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TF_Dingaling_Volume"
 		"#Tooltip_Dingaling_Volume"
 		{ SLIDER 0 1 }
-		{ "1" }
+		{ "0.5" }
 	}
 
 	"tf_dingalingaling_effect"
@@ -294,7 +294,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TF_AutoMedicCallThreshold"
 		"#Tooltip_AutoMedicCallThreshold"
 		{ SLIDER 10 99 }
-		{ "59" }
+		{ "90" }
 	}
 
 	"category3"
@@ -596,7 +596,7 @@ DESCRIPTION INFO_OPTIONS
 		"#Valve_Multiplayer_Decal_Limit"
 		"#Tooltip_Multiplayer_Decal_Limit"
 		{ NUMBER 0 4096 }
-		{ "0" }
+		{ "9" }
 	}
 
 	"category6"

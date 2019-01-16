@@ -1,4 +1,4 @@
--nocrashdialog -novid -nojoy -nosteamcontroller -softparticlesdefaultoff -reuse +fps_max 61 +map_background preload_room
--nocrashdialog -novid -nojoy -nosteamcontroller -softparticlesdefaultoff -reuse +map_background preload_room +fps_max 61 +exec autoexec.cfg
-
-
+# old
+-nocrashdialog -novid -nojoy -nosteamcontroller -softparticlesdefaultoff -reuse +map_background preload_room -force_vendor_id 0x1002 -force_device_id 0x9851 +fps_max 61 +exec autoexec.cfg
+# clean
+-novid -default -autoconfig +host_writeconfig +mat_savechanges +quit
