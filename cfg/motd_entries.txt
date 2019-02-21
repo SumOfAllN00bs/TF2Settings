@@ -1,17 +1,15 @@
 "motd_entries"
 {
-	"last_request_time"		"2018-12-21 17:34:39"
+	"last_request_time"		"2019-02-04 14:55:00"
 	"last_request_language"		"english"
-	"89"
+	"90"
 	{
-		"post_time"		"2018-12-20 20:55:00"
-		"title_english"		"Merry Smissmas"
-		"text_english"		"Smissmas brings Stocking Stuffers for everyone and winter-themed community cosmetics!
-			Festivizers can be found as a random bonus when opening the Winter 2018 Cosmetic Case! Happy Holidays!"
-		"url"		"http://www.teamfortress.com"
-		"image"		"../backpack/crafting/winter2013_stocking_stuffer_large"
+		"post_time"		"2019-01-23 20:55:00"
+		"title_english"		"Checked out the blog?"
+		"text_english"		"If you haven't read the official TF2 blog, it's full of insights into our development process, links to notable community productions, and random stories about our love of hats. Hit the button below to take a look!"
+		"url"		"http://www.teamfortress.com/"
+		"image"		"../logo/new_tf2_logo"
 		"header_type"		"0"
 		"header_english"		"News"
-		"header_icon"		"class_icons/filter_all_motd"
 	}
 }
