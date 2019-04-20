@@ -1,0 +1,28 @@
+	////////////////////////////////////////////////////////////////////////////////////////////////////
+	// Recommended commands for the hud as a whole
+	////////////////////////////////////////////////////////////////////////////////////////////////////
+	// The hud is designed to work around minmode being set to 0, but it should work either way
+	cl_hud_minmode													0
+	
+	// The hud looks better without floating health
+	tf_hud_target_id_disable_floating_health						1
+	
+	////////////////////////////////////////////////////////////////////////////////////////////////////
+	// Commands I recommend using
+	////////////////////////////////////////////////////////////////////////////////////////////////////
+	// The current ping bars are comparatively arbitrary
+	tf_scoreboard_ping_as_text 										1
+	
+	// Improves appearance of backpack icons (and other misc things)
+	mat_picmip														-1
+	
+	// When spectating, hides cycling info about the spectated person's items
+	cl_spec_carrieditems											0
+	
+	// Set ideal floating health settings
+	tf_healthicon_height_offset										10
+	tf_hud_target_id_offset											0
+	
+	echo /////////////////////////////////////////////////
+	echo Recommended commands set
+	echo /////////////////////////////////////////////////
