@@ -1,3 +1,21 @@
 "serverblacklist"
 {
+	"server"
+	{
+		"name"		"[GFLClan.com] 24/7 2Fort | Fast Respawn | US"
+		"date"		"1556645268"
+		"addr"		"92.119.148.19:27015"
+	}
+	"server"
+	{
+		"name"		"[GFLClan.com] Orange X3 | Fast Respawn | No Lag"
+		"date"		"1556645273"
+		"addr"		"92.119.148.10:27015"
+	}
+	"server"
+	{
+		"name"		"[GFLClan.com] 24/7 High Tower | Fast Respawn | US"
+		"date"		"1557071740"
+		"addr"		"92.119.148.30:27015"
+	}
 }

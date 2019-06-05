@@ -14,13 +14,13 @@ alias +se_reload lastdisguise;
 alias +se_slot3 slot3
 
 // Revolver fov
-alias +se_slot1 "slot1; fov_aim; sens_aim;"
-alias sc_slot1 "fov_def;  sens_def;"
+//alias +se_slot1 "slot1; fov_aim; sens_aim;"
+//alias sc_slot1 "fov_def;  sens_def;"
 
 //do not spam chat when sapping
 alias say_sap none
-alias sap_msg "alias say_sap none"
-alias +sap "+attack"
+alias sap_msg "say_team ### I'M SAPPING NOW! ###; alias say_sap none"
+alias +sap "+attack; say_sap"
 alias +se_slot2 "slot2; alias +se_attack +sap; alias say_sap sap_msg"
 alias sc_slot2 "alias +se_attack +attack; alias say_sap none"
 

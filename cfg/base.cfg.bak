@@ -5,12 +5,12 @@ exec callouts
 alias net_scn cl_interp_ratio 2.0
 alias net_prj cl_interp_ratio 1.0
 
-alias sens_def "sensitivity 2"
-alias sens_aim "sensitivity 2"
+alias sens_def "sensitivity 3"
+alias sens_aim "sensitivity 3"
 sens_def
 
 alias fov_def "fov_desired 90"
-alias fov_aim "fov_desired 80"
+alias fov_aim "fov_desired 75"
 fov_def
 
 unbind CAPSLOCK
@@ -24,7 +24,7 @@ bind end "impulse 101; tr_teleport"
 
 //misc
 bind home explode
-//bindtoggle . "r_drawviewmodel"
+bindtoggle . "r_drawviewmodel"
 bind mwheelup +jump
 bind mwheeldown +jump
 bind space +jump
@@ -37,11 +37,8 @@ bind mouse3 "+u_mod_pb;+u_reload;"
 
 //think different
 bind q +u_action_slot
-alias +se_action_slot_pb v_yes
-alias +se_callmed_pb v_no
-bind l next_map_vote 0
-bind ; next_map_vote 1
-bind ' next_map_vote 2
+alias +se_action_slot_pa v_yes
+alias +se_callmed_pa v_no
 
 //numpad loadout
 bind kp_slash +u_loadout_0
@@ -84,7 +81,7 @@ alias +se_ctx5_pa com_spy_heavy
 alias +se_ctx6_pa com_spy_engi
 alias +se_ctx7_pa com_spy_med
 alias +se_ctx8_pa com_spy_sniper
-alias +se_ctx9_pa com_spy_spy
+alias +se_ctx9_pa com_spy_spy    
 
 //yell when preparing to melee
 alias +se_slot3 "v_battlecry; slot3"
@@ -106,3 +103,7 @@ alias -se_reload "-attack3; -reload;";
 fov_desired 90
 tf_dingaling_volume 0.4
 //volume 1
+
+//call medic uber
+alias +se_callmed_pa "v_activateuber; say_team ### POP THE UBER ###"
+

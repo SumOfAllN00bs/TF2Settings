@@ -12,7 +12,7 @@ unbind mouse2
 bind f +u_attack2
 
 alias +se_slot1 "slot1;sens_aim"
-alias sc_slot1 "sens_aim"
+alias sc_slot1 "sens_def"
 
 cl_first_person_uses_world_model 0
 tf_taunt_first_person 0

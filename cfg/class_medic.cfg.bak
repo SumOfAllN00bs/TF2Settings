@@ -39,15 +39,15 @@ alias -se_callmed -radar
 alias +se_callmed_pa "v_medic; say_team ### MEDIC NEEDS SANDVICH ###"
 
 //uberscript
-alias +uber "+u_slot2; +u_dropitem; +attack2;"
+alias +uber "+u_slot2; +u_dropitem; +attack2; say_team #### WE POPPED UBER ####"
 alias -uber "-u_slot2; -u_dropitem; -attack2;"
 alias +se_attack2 +uber
 alias -se_attack2 -uber
 
 
 //Some voice commands for medic
-alias +se_misc4 "v_help; say_team ### OUR MEDIC UNDER ATTACK ###"
-alias +se_misc6 "v_cloakedspy; say_team ### SPY NEAR MEDIC ###"
+alias +se_ctx1 "v_help; say_team ### OUR MEDIC UNDER ATTACK ###"
+alias +se_ctx2 "v_cloakedspy; say_team ### SPY NEAR MEDIC ###"
 alias +se_ctx3 "v_gogogo; say_team ### PUSH! I WILL POP THE UBER ###"
 alias +se_misc2 +attack3
 alias -se_misc2 -attack3
