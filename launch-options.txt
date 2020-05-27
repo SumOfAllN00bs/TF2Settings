@@ -1,4 +1,0 @@
-# old
--novid -nojoy -nosteamcontroller -softparticlesdefaultoff -reuse -nohltv -windowed -noborder
-# clean
--novid -default -autoconfig +host_writeconfig +mat_savechanges +quit
