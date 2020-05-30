@@ -1,0 +1,17 @@
+// *Used to reset the changes each class might have made* //
+alias sens_aim				"sensitivity 1.5"
+alias sens_def				"sensitivity 1.65"
+
+
+unbind						"b"
+unbind						"f"
+unbind						"mouse5"
+bind 1						"slot1"
+bind 2						"slot2"
+bind 3						"slot3"
+bind 4						"slot4"
+bind f						"+inspect"
+bind e						"voicemenu 0 0"
+bind r						"dispensor_mod" // from chatbinds
+bind mouse5					"+attack2"
+bind mouse1					"+attack"
