@@ -1,4 +1,4 @@
-TFPATH=~/.steam/steam/steamapps/common/Team\ Fortress\ 2/tf
+TFPATH=/media/Extra/library/steamapps/common/Team\ Fortress\ 2/tf
 CURPATH=`pwd`
 rm custom.zip
 rm -r cfg/

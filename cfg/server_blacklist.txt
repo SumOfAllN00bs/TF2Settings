@@ -1,0 +1,273 @@
+"serverblacklist"
+{
+	"server"
+	{
+		"name"		"[GFLClan.com] 2Fort 2 | Store | RTD | US"
+		"date"		"1599422304"
+		"addr"		"92.119.148.10:27015"
+	}
+	"server"
+	{
+		"name"		"skial.com | CORONA ESCAPE | US ███"
+		"date"		"1599422304"
+		"addr"		"91.216.250.15:27015"
+	}
+	"server"
+	{
+		"name"		"skial.com | SAXTON HALE | US ████"
+		"date"		"1599422304"
+		"addr"		"91.216.250.14:27015"
+	}
+	"server"
+	{
+		"name"		"skial.com | 2FORT+ | NY █████"
+		"date"		"1599422312"
+		"addr"		"74.91.116.200:27018"
+	}
+	"server"
+	{
+		"name"		"▟█▙ ZOMBIE ESCAPE USA ▟█ Otaku.TF █▙       ▟▙"
+		"date"		"1599422312"
+		"addr"		"74.91.124.167:27015"
+	}
+	"server"
+	{
+		"name"		"[GFLClan.com] Hightower | NO CARTS | Fast Respawn | US "
+		"date"		"1599422322"
+		"addr"		"92.119.148.30:27015"
+	}
+	"server"
+	{
+		"name"		"skial.com | TRADE | US ██████"
+		"date"		"1599422322"
+		"addr"		"91.216.250.30:27015"
+	}
+	"server"
+	{
+		"name"		"skial.com | TURBINE+ | US 2 ████"
+		"date"		"1599422322"
+		"addr"		"91.216.250.35:27015"
+	}
+	"server"
+	{
+		"name"		"  ►  BlackWonder US | Vs Saxton Hale | Sky-high Resort 24/7"
+		"date"		"1599422322"
+		"addr"		"85.117.240.1:27165"
+	}
+	"server"
+	{
+		"name"		"  ►  BlackWonder US | Trade Minecraft  ◄"
+		"date"		"1599422322"
+		"addr"		"85.117.240.6:27145"
+	}
+	"server"
+	{
+		"name"		"skial.com | FREAK FORTRESS | NY ███"
+		"date"		"1599422322"
+		"addr"		"74.91.116.200:27017"
+	}
+	"server"
+	{
+		"name"		"skial.com | 2FORT+ | US 2 █████"
+		"date"		"1599422324"
+		"addr"		"91.216.250.31:27015"
+	}
+	"server"
+	{
+		"name"		"Panda-Community.com US | 2Fort"
+		"date"		"1599422341"
+		"addr"		"193.38.251.1:27015"
+	}
+	"server"
+	{
+		"name"		"Panda-Community.com US | Jailbreak"
+		"date"		"1599422341"
+		"addr"		"193.38.251.14:27015"
+	}
+	"server"
+	{
+		"name"		"      ★ WonderLand IL ⋙ Jailbreak ▬ Custom"
+		"date"		"1599422341"
+		"addr"		"74.91.115.80:27016"
+	}
+	"server"
+	{
+		"name"		"skial.com | HARVEST x10 RANDOMIZER | US"
+		"date"		"1599422341"
+		"addr"		"91.216.250.34:27015"
+	}
+	"server"
+	{
+		"name"		"skial.com | DEATH RUN | US ████"
+		"date"		"1599422357"
+		"addr"		"91.216.250.13:27015"
+	}
+	"server"
+	{
+		"name"		"skial.com | HIGHTOWER | US ████"
+		"date"		"1599422357"
+		"addr"		"91.216.250.17:27015"
+	}
+	"server"
+	{
+		"name"		"Panda-Community.com US | Trade"
+		"date"		"1599422364"
+		"addr"		"193.38.251.10:27015"
+	}
+	"server"
+	{
+		"name"		"skial.com | HARVEST | US █████"
+		"date"		"1599422367"
+		"addr"		"91.216.250.18:27015"
+	}
+	"server"
+	{
+		"name"		"UGC.TF | 2FORT | US | Fast"
+		"date"		"1599422371"
+		"addr"		"45.141.52.42:27015"
+	}
+	"server"
+	{
+		"name"		"UGC.TF | 2FORT | US 2 | Fast"
+		"date"		"1599422371"
+		"addr"		"45.141.52.57:27015"
+	}
+	"server"
+	{
+		"name"		"⭐ EGC | TRADE | US-WEST"
+		"date"		"1599422373"
+		"addr"		"162.248.93.118:27015"
+	}
+	"server"
+	{
+		"name"		"UGC.TF | DEGROOTKEEP | US 2 | Fast"
+		"date"		"1599422380"
+		"addr"		"45.141.52.41:27015"
+	}
+	"server"
+	{
+		"name"		"UGC.TF | DUSTBOWL | EU | Fast"
+		"date"		"1599422380"
+		"addr"		"193.221.192.28:27015"
+	}
+	"server"
+	{
+		"name"		"UGC.TF | 2FORT x10 RANDOMIZER | EU"
+		"date"		"1599422388"
+		"addr"		"193.221.192.29:27015"
+	}
+	"server"
+	{
+		"name"		"skial.com | TURBINE x10 RANDOMIZER | US"
+		"date"		"1599422388"
+		"addr"		"91.216.250.36:27015"
+	}
+	"server"
+	{
+		"name"		"UGC.TF | HIGHER TOWER x10 WEAPONS | US"
+		"date"		"1599422388"
+		"addr"		"45.141.52.50:27015"
+	}
+	"server"
+	{
+		"name"		"UGC.TF | TURBINE | US | Fast"
+		"date"		"1599422388"
+		"addr"		"45.141.52.51:27015"
+	}
+	"server"
+	{
+		"name"		"UGC.TF | 2FOOOOOOOOOORT x10 WEAPONS | US"
+		"date"		"1599422388"
+		"addr"		"45.141.52.48:27015"
+	}
+	"server"
+	{
+		"name"		"UGC.TF | 2FORT | EU | Fast"
+		"date"		"1599422388"
+		"addr"		"193.221.192.26:27015"
+	}
+	"server"
+	{
+		"name"		"UGC.TF | MGE Mod | EU"
+		"date"		"1599422388"
+		"addr"		"193.221.192.30:27015"
+	}
+	"server"
+	{
+		"name"		"UGC.TF | HIGHER TOWER x10 WEAPONS | US 2"
+		"date"		"1599422401"
+		"addr"		"45.141.52.28:27015"
+	}
+	"server"
+	{
+		"name"		"[GFLClan.com] Hightower 2 | NO CARTS | US"
+		"date"		"1599422401"
+		"addr"		"92.119.148.1:27015"
+	}
+	"server"
+	{
+		"name"		"UGC.TF | DUSTBOWL | US | Fast"
+		"date"		"1599422401"
+		"addr"		"45.141.52.44:27015"
+	}
+	"server"
+	{
+		"name"		"UGC.TF | HIGHER TOWER x10 WEAPONS | EU 2"
+		"date"		"1599422401"
+		"addr"		"193.221.192.33:27015"
+	}
+	"server"
+	{
+		"name"		"UGC.TF | MGE Mod | US"
+		"date"		"1599422401"
+		"addr"		"45.141.52.45:27015"
+	}
+	"server"
+	{
+		"name"		"UGC.TF | 2FOOOOOOOOOORT x10 WEAPONS | EU"
+		"date"		"1599422401"
+		"addr"		"193.221.192.36:27015"
+	}
+	"server"
+	{
+		"name"		"UGC.TF | 2FORT x10 RANDOMIZER | US"
+		"date"		"1599422406"
+		"addr"		"45.141.52.47:27015"
+	}
+	"server"
+	{
+		"name"		"UGC.TF | ORANGE x3 | x10 WEAPONS | EU"
+		"date"		"1599422406"
+		"addr"		"193.221.192.40:27015"
+	}
+	"server"
+	{
+		"name"		"skial.com | 2FORT x10 RANDOMIZER | US █"
+		"date"		"1599422406"
+		"addr"		"91.216.250.33:27015"
+	}
+	"server"
+	{
+		"name"		"UGC.TF | ORANGE x10 RANDOMIZER | US"
+		"date"		"1599422406"
+		"addr"		"45.141.52.49:27015"
+	}
+	"server"
+	{
+		"name"		"UGC.TF | ORANGE x10 RANDOMIZER | EU"
+		"date"		"1599422406"
+		"addr"		"193.221.192.35:27015"
+	}
+	"server"
+	{
+		"name"		"UGC.TF | HIGH TOWER | NO CARTS | EU 2"
+		"date"		"1599422413"
+		"addr"		"193.221.192.27:27015"
+	}
+	"server"
+	{
+		"name"		"UGC.TF | HIGH TOWER | NO CARTS | US"
+		"date"		"1599422413"
+		"addr"		"45.141.52.43:27015"
+	}
+}
