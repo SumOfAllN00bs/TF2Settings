@@ -7,3 +7,6 @@
 # mastercomfig settings
 -novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars
 https://docs.comfig.app/latest/customization/launch_options/
+
+# recent
+-novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -no_texture_stream
